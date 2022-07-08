@@ -1,0 +1,83 @@
+# CSS Assistant v1.0
+
+CSS: 64 COMMAND
+===============
+=======
+===
+
+- add class and end class
+- add id and end id
+- comment
+- color
+- width
+- min-w (min-width)
+- max-w (max-width)
+- height
+- min-h (min-height)
+- max-h (max-height)
+- margin
+- padding
+- font-size
+- font-family
+- font-weight
+- font-style
+- text-align
+- text-decoration
+- line-h (line-height)
+- direction
+- background
+- bg-c (background-color)
+- bg-image (background-image)
+- bg-position (background-position)
+- bg-repeat (background-repeat)
+- bg-size (background-size)
+- bg-attachment (background-attachment)
+- list-style
+- opacity
+- border
+- b-w (border-width)
+- b-c (border-color)
+- b-style (border-style)
+- b-radius (border-radius)
+- outline
+- display
+- visibility
+- overflow
+- o-y (overflow-y)
+- o-x (overflow-x)
+- position
+- float
+- box-sizing
+- transform
+- cursor
+- z-index
+- box-shadow
+- content
+- transition
+- animation
+- flex
+- f-d (flex-direction)
+- f-wrap (flex-wrap)
+- f-grow (flex-grow)
+- f-shrink (flex-shrink)
+- f-basis (flex-basis)
+- f-flow (flex-flow)
+- align-c (align-content)
+- align-items
+- align-self
+- justify-c (justify-content)
+- justify-items
+- justify-self
+- gap
+
+MACHINE: 6 COMMAND
+==================
+=========
+====
+
+- tab
+- enter
+- space
+- clear code css
+- clear screen
+- stop

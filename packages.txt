@@ -1,0 +1,6 @@
+SpeechRecognition
+colorama
+platform
+pyttsx3
+random
+os
