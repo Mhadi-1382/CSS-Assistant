@@ -19,4 +19,4 @@ To launch the program, first install the required packages and then use the prog
 - random
 - os
 
-**More information**: 
+**More information**: https://dev.to/mhadi2003/css-assistant-8ha
