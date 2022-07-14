@@ -6,7 +6,7 @@ CSS Assistant is a CSS kernel utility that can help you with user-side coding.
 CSS Assistant is a CSS kernel utility that can help you with user-side coding. This assistant receives commands by voice from the user and after the necessary processing, adds the command or attribute to the file and the changes in the file will be applied immediately.
 
 > **v1.0 (Sunday, June 6, 2022)**:
-- 64 Command CSS and 6 Command System = [ListCSSAssistant](https://github.com/Mhadi-1382/CSS-Assistant/blob/main/ListCSSAssistant.txt)
+- 35 Command CSS and 6 Command System = [ListCSSAssistant](https://github.com/Mhadi-1382/CSS-Assistant/blob/main/ListCSSAssistant.txt)
 
 ## Installation:
 To launch the program, first install the required packages and then use the program safely. You can also install the required packages by running the setup.bat file.
