@@ -1,0 +1,54 @@
+# CSS Assistant v1.0
+
+CSS: 35 COMMAND
+===============
+=======
+===
+
+- add class and end class
+- add id and end id
+- comment
+- color
+- width
+- height
+- margin
+- padding
+- font-size
+- font-family
+- font-weight
+- font-style
+- text-align
+- text-decoration
+- direction
+- background
+- list-style
+- opacity
+- border
+- radius (border-radius)
+- outline
+- display
+- visibility
+- overflow
+- position
+- float
+- box-sizing
+- transform
+- cursor
+- z-index
+- box-shadow
+- content
+- transition
+- animation
+- flex
+
+SYSTEM: 6 COMMAND
+==================
+=========
+====
+
+- tab
+- enter
+- space
+- clear code css
+- clear screen
+- stop
